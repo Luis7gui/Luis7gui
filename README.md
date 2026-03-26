@@ -13,7 +13,7 @@ I'm always interested in collaborating on exciting projects or discussing new op
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Luis7gui/portfolio-luis)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luisguilherme378@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luis.guilhermee@proton.me)
 
 </div>
 
